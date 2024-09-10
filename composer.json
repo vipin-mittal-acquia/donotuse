@@ -1,4 +1,7 @@
 {
     "name": "python/douse",
-    "description": "This plugin is designed for internal testing purpose."
+    "description": "This plugin is designed for internal testing purpose.",
+    "replace": {
+        “python/donotuse":"dev-main"
+    },
 }
